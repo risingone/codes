@@ -1,3 +1,4 @@
+/*In this code we are finding no. of digits in the factorial of a number n*/
 #include<bits/stdc++.h>
 using namespace std;
 int digitsInFactorial(int N)
