@@ -1,0 +1,1 @@
+cout << ts.pop1() << endl;

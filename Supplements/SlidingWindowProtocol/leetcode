@@ -1,0 +1,11 @@
+We categorize Sliding Window problems into 2 categories
+1) fixed window size
+2) variable window size
+
+76: Minimum Window Substring
+239: Sliding Window Maximum
+438: Find All Anagrams in a String
+560: Subarray Sum Equals K
+567: Permutation in String
+713: Subarray Product Less Than K
+2134: Minimum Swaps to Group All 1's together II 
